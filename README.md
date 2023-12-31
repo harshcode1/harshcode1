@@ -1,4 +1,7 @@
-<h1 align="center">Life is about issues, living it is Creating PR</h1>
+<h1 align="center">Hi 👋, I'm Harsh Soni</h1>
+<h3 align="center">A passionate computer science student from India</h3>
+
+<h2 align="center">Life is about issues, living it is Creating PR</h2>
 <h3 align="center">A passionate Web developer</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 <p align="left"></p>
