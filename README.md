@@ -10,7 +10,7 @@
 
 - 📄 Know about my experiences [Here](https://www.linkedin.com/in/harsh-soni-885651221/)
 
-- ⚡ In my free time I like to watch **Movies.**
+- ⚡ In my free time I like to watch **Horror Movies.**
 
 
 ### 🛠 &nbsp;Languages and Tools :
