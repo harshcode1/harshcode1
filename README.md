@@ -44,6 +44,6 @@
 <a href="https://leetcode.com/SONI_HARSH/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SONI_HARSH" height="30" width="40" /></a>
 </p>
 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=parteekcoder&show_icons=true&locale=en&theme=dracula&count_private=true" alt="parteekcoder" /></p>
+<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=harshcode1&show_icons=true&locale=en&theme=dracula&count_private=true" alt="harshcode1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=parteekcoder&theme=dracula" alt="parteekcoder" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshcode1&theme=dracula" alt="harshcode1" /></p>
