@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Harsh Soni</h1>
-<h3 align="center">A passionate second-year Computer Science student diving deep into Full Stack Development, with a passion for mastering the MERN stack.</h3>
+<h3 align="center">A passionate final-year Computer Science student diving deep into Full Stack Development, with a passion for mastering the MERN stack.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 <p align="left"></p>
 - 👯 I’m looking to collaborate on **Open Source Projects**
