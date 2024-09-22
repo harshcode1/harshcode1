@@ -3,8 +3,8 @@
 </h1>
 <div align="center">
   <img height="40px" src="https://img.shields.io/badge/-I'm-faebee?&style=for-the-badge&logoWidth=50" />
-  <img height="40px" src="https://img.shields.io/badge/-TARU-8A2BE2?&style=for-the-badge&logoWidth=50" />
-  <img height="40px" src="https://img.shields.io/badge/-PATHAK-faebee?&style=for-the-badge&logoWidth=50" />
+  <img height="40px" src="https://img.shields.io/badge/-HARSH-8A2BE2?&style=for-the-badge&logoWidth=50" />
+  <img height="40px" src="https://img.shields.io/badge/-SONI-faebee?&style=for-the-badge&logoWidth=50" />
 
   <br>
 
