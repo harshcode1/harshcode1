@@ -19,7 +19,6 @@
 <br />
 
 
-<h1 align="center">Hi 👋, I'm Harsh Soni</h1>
 <h3 align="center">A passionate final-year Computer Science student diving deep into Full Stack Development, with a passion for mastering the MERN stack.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 <p align="left"></p>
@@ -31,7 +30,7 @@
 
 - 📄 Know about my experiences [Here](https://www.linkedin.com/in/harsh-soni-885651221/)
 
-- ⚡ In my free time I like to watch **Horror Movies.**
+- ⚡ In my free time I like to watch **Movies.**
 
 
 ### 🛠 &nbsp;Languages and Tools :
@@ -52,18 +51,7 @@
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" **alt="Git" width="40" height="40"/>&nbsp;
 </p>
 
-## Projects 
-1. **SnapNote** - Developed a notes app using the **MERN** stack.  [Repo](https://github.com/harshcode1/SnapNote)
-2. **NewsApp** - Developed a full-stack NewsApp using **NewsAPI** and **React.js** for the front end.  [Repo](https://github.com/harshcode1/NewsApp)
-3. **TextUtilityApp** - Developed a Text Utilty app using **React.js.** [Repo](https://github.com/harshcode1/TextUtils-)
 
-   
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/harsh-soni-885651221/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="harshsoni" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/profile/harsh9995soni" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="SONI_HARSH" height="30" width="40" /></a>
-<a href="https://leetcode.com/SONI_HARSH/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="SONI_HARSH" height="30" width="40" /></a>
-</p>
 
 <p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=harshcode1&show_icons=true&locale=en&theme=dracula&count_private=true" alt="harshcode1" /></p>
 
