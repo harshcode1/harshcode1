@@ -1,3 +1,24 @@
+<h1 align="center" style="color:#faebee">
+  <img height="40px" src="https://img.shields.io/badge/-Hello world!👋-faebee?&style=for-the-badge&logoWidth=50" />
+</h1>
+<div align="center">
+  <img height="40px" src="https://img.shields.io/badge/-I'm-faebee?&style=for-the-badge&logoWidth=50" />
+  <img height="40px" src="https://img.shields.io/badge/-TARU-8A2BE2?&style=for-the-badge&logoWidth=50" />
+  <img height="40px" src="https://img.shields.io/badge/-PATHAK-faebee?&style=for-the-badge&logoWidth=50" />
+
+  <br>
+
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2%&size=32&center=true&vCenter=true&width=600&height=50&pause=1000&vCenter=true&background=faebee&lines=Hi+there+I%27m+Taru+Pathak+%F0%9F%91%8B;Full-stack+Developer;Problem+Solver" alt="Headline" />
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=harshcode1&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh Soni" /> </p>
+  <a href="https://www.linkedin.com/in/harsh-soni-885651221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://leetcode.com/SONI_HARSH/"><img src="https://img.shields.io/badge/Leetcode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" alt="Leetcode" /></a>
+  <a href="mailto:harsh9995soni@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" /></a>
+  <a href="https://x.com/Harsh21_Soni"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" /></a>
+</div>
+<br />
+
+
 <h1 align="center">Hi 👋, I'm Harsh Soni</h1>
 <h3 align="center">A passionate final-year Computer Science student diving deep into Full Stack Development, with a passion for mastering the MERN stack.</h3>
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
