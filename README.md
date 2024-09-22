@@ -8,7 +8,7 @@
 
   <br>
 
-  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2%&size=32&center=true&vCenter=true&width=600&height=50&pause=1000&vCenter=true&background=faebee&lines=Hi+there+I%27m+Taru+Pathak+%F0%9F%91%8B;Full-stack+Developer;Problem+Solver" alt="Headline" />
+  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2%&size=32&center=true&vCenter=true&width=600&height=50&pause=1000&vCenter=true&background=faebee&lines=Hi+there+I%27m+Harsh+Soni+%F0%9F%91%8B;Full-stack+Developer;Problem+Solver" alt="Headline" />
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harshcode1&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh Soni" /> </p>
   <a href="https://www.linkedin.com/in/harsh-soni-885651221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
