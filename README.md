@@ -53,6 +53,6 @@
 
 
 
-<p>&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=harshcode1&show_icons=true&locale=en&theme=dracula&count_private=true" alt="harshcode1" /></p>
+<p align="center">&nbsp;<img  src="https://github-readme-stats.vercel.app/api?username=harshcode1&show_icons=true&locale=en&theme=dracula&count_private=true" alt="harshcode1" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshcode1&theme=dracula" alt="harshcode1" /></p>
+<p align="center"><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=harshcode1&theme=dracula" alt="harshcode1" /></p>
