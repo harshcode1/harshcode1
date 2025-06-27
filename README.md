@@ -28,7 +28,7 @@
 <img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 ### 👨‍💻 About Me
-- 🎓 B.Tech CSE Graduate, The NorthCap University, 2025 | CGPA: 8.77  
+- 🎓 B.Tech CSE Graduate, The NorthCap University, 2025 | CGPA: 8.53  
 - 💼 SWE Intern @ Nagarro | Prev. Full Stack Intern @ TailorTalk  
 - 🔭 Currently exploring **Spring Boot**, **Next.js**, and **Distributed Systems**  
 - 👯 Open to collaborate on impactful **Open Source Projects**  
