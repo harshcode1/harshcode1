@@ -29,7 +29,7 @@
 - 🤖 Building **Phoenix OS** — an agentic, spec-driven SDLC framework where **24 specialized agents** read/write against a **126-file memory layer** to turn AI coding assistants into deterministic delivery systems, tool-agnostic across Claude Code, Copilot, Codex & Cursor
 - 🏦 Shipped performance improvements on enterprise banking-sector microservices (Spring Boot, multi-threaded modules)
 - 🔭 Currently deep in **Spring Boot microservices**, **Next.js**, and **multi-agent AI orchestration**
-- 🧠 Alumnus of **Amazon ML Summer School '23** (Top 5%, 60K+ applicants)
+- 🧠 Alumnus of **[Amazon ML Summer School '23](https://drive.google.com/file/d/1V4rmHYpjghD-3Id72qTK7fu67MgWVMOP/view?usp=sharing)** (Top 5%, 60K+ applicants)
 - ⚔️ **Codeforces Specialist** (1600+ rating) &nbsp;|&nbsp; **500+ DSA problems** solved
 - 👯 Open to collaborate on **agentic AI** or impactful **open source** work
 - 📫 **harsh9995soni@gmail.com**
@@ -42,7 +42,7 @@
 <tr>
 <td width="50%" valign="top">
 
-### 🔗 [TaskForge](https://github.com/harshcode1/TaskForge)
+### 🔗 [TaskForge](https://github.com/harshcode1/TaskForge) — [Docs ↗](https://github.com/harshcode1/TaskForge/wiki)
 Jira-style project tracker — 18 REST endpoints, JWT auth with **service-layer RBAC**, drag-and-drop Kanban, **57 frontend + 12 backend tests**, multi-stage Docker builds.
 
 `Spring Boot 3.5.3` `Spring Security 6` `Next.js 14` `MySQL` `Docker`
@@ -50,7 +50,7 @@ Jira-style project tracker — 18 REST endpoints, JWT auth with **service-layer 
 </td>
 <td width="50%" valign="top">
 
-### 🧠 [BetterMind](https://github.com/harshcode1/BetterMind)
+### 🧠 [BetterMind](https://github.com/harshcode1/BetterMind) — [Live Demo ↗](https://better-mind-mauve.vercel.app/)
 AI mental-health platform — TOTP **2FA**, AES encryption at rest, rate-limiter factory, 3-role RBAC, clinically-validated PHQ-9/GAD-7 assessments, AI companion.
 
 `Next.js 14` `MongoDB` `OpenAI` `JWT + 2FA`
@@ -123,7 +123,7 @@ PWA crypto trading simulator — 6 cached API routes behind a **4-layer fallback
 <br/>
 
 ## 🏆 Achievements
-- 🥇 **Amazon ML Summer School '23** — Selected from 60,000+ applicants (~5% acceptance rate)
+- 🥇 **[Amazon ML Summer School '23](https://drive.google.com/file/d/1V4rmHYpjghD-3Id72qTK7fu67MgWVMOP/view?usp=sharing)** — Selected from 60,000+ applicants (~5% acceptance rate)
 - ⚔️ **Codeforces Specialist** (1600+ rating, top 15% globally)
 - 👨‍💻 **500+ DSA problems** solved across LeetCode, Codeforces & HackerRank
 - ☁️ **AWS Certified** — Cloud Developing & Cloud Foundations
