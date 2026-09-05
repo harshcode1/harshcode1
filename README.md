@@ -100,20 +100,12 @@ PWA crypto trading simulator — 6 cached API routes behind a **4-layer fallback
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshcode1&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshcode1&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+  <img height="180em" src="./profile/stats.svg" alt="GitHub Stats" />
+  <img height="180em" src="./profile/top-langs.svg" alt="Top Languages" />
 </p>
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshcode1&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshcode1&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Activity" />
-</p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=harshcode1&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
 </p>
 
 <br/>
