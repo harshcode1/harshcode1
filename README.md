@@ -68,7 +68,7 @@ Community Q&A platform with a clean layered Spring Boot architecture and an **An
 </td>
 <td width="50%" valign="top">
 
-### 🎬 [ai-video-pipeline](https://github.com/harshcode1/ai-video-pipeline)
+### 🎬 [ai-video-pipeline](https://github.com/harshcode1/ai-video-pipeline) — [Docs ↗](https://github.com/harshcode1/ai-video-pipeline/wiki)
 Resumable AI video pipeline — TTS + AI image generation + ffmpeg render, with a **pluggable provider abstraction** that survived two live API-provider outages.
 
 `Python` `TTS` `Image-Gen APIs` `ffmpeg`
