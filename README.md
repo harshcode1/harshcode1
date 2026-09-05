@@ -1,91 +1,143 @@
-<h1 align="center" style="color:#faebee"> 
-  <img height="40px" src="https://img.shields.io/badge/-Hello world!👋-faebee?&style=for-the-badge&logoWidth=50" />
-</h1>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:8A2BE2,100:1a0b2e&height=220&section=header&text=Harsh%20Soni&fontSize=60&fontColor=faebee&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%40%20Nagarro%20%C2%B7%20AI%20Systems%20%26%20Agentic%20Frameworks&descAlignY=58&descSize=18" />
+  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:8A2BE2,100:1a0b2e&height=220&section=header&text=Harsh%20Soni&fontSize=60&fontColor=faebee&animation=fadeIn&fontAlignY=38&desc=Software%20Engineer%20%40%20Nagarro%20%C2%B7%20AI%20Systems%20%26%20Agentic%20Frameworks&descAlignY=58&descSize=18" />
+</picture>
 
 <div align="center">
-  <img height="40px" src="https://img.shields.io/badge/-I'm-faebee?&style=for-the-badge&logoWidth=50" />
-  <img height="40px" src="https://img.shields.io/badge/-HARSH-8A2BE2?&style=for-the-badge&logoWidth=50" />
-  <img height="40px" src="https://img.shields.io/badge/-SONI-faebee?&style=for-the-badge&logoWidth=50" />
 
-  <br />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&duration=2800&pause=1100&color=8A2BE2&center=true&vCenter=true&width=650&lines=Building+Phoenix+OS+%E2%80%94+agentic+SDLC+framework+%40+Nagarro;24+specialized+agents+%C2%B7+126-file+memory+layer;Java+%7C+Spring+Boot+%7C+Next.js+%7C+MCP;Codeforces+Specialist+%7C+500%2B+DSA+problems+solved" alt="Typing SVG" />
 
-  <img src="https://readme-typing-svg.herokuapp.com/?color=8A2BE2&size=32&center=true&vCenter=true&width=600&height=50&pause=1000&background=faebee&lines=Hi+there+I'm+Harsh+Soni+%F0%9F%91%8B;Software+Engineer+%40+Nagarro;Java+%7C+Spring+Boot+%7C+Full-Stack;Building+Scalable+Backend+Systems" alt="Headline" />
+<img src="https://komarev.com/ghpvc/?username=harshcode1&label=Profile%20views&color=8A2BE2&style=for-the-badge" alt="Profile views" />
 
-  <p align="left">
-    <img src="https://komarev.com/ghpvc/?username=harshcode1&label=Profile%20views&color=0e75b6&style=flat" alt="Harsh Soni" />
-  </p>
+<br /><br />
 
-  <a href="https://www.linkedin.com/in/harsh-soni-885651221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://leetcode.com/SONI_HARSH/"><img src="https://img.shields.io/badge/Leetcode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
-  <a href="https://codeforces.com/profile/harshsoni_cf"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
-  <a href="mailto:harsh9995soni@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://x.com/Harsh21_Soni"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
-  <a href="https://harsh-portfolio-psi-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/harsh-soni-885651221/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://leetcode.com/SONI_HARSH/"><img src="https://img.shields.io/badge/Leetcode-FFA500?style=for-the-badge&logo=leetcode&logoColor=white" /></a>
+<a href="https://codeforces.com/profile/harshsoni_cf"><img src="https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="mailto:harsh9995soni@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://x.com/Harsh21_Soni"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+<a href="https://harsh-portfolio-psi-one.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+
 </div>
 
-<br />
+<br/>
 
-<h3 align="center">Software Engineer | Java & Spring Boot | Full-Stack | Microservices</h3>
+## 👨‍💻 About Me
 
-<img align="right" alt="Coding" width="400" src="https://media3.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
-
-### 👨‍💻 About Me
-- 🎓 B.Tech CSE Graduate, The NorthCap University, 2025 | CGPA: 8.53
-- 💼 **Software Engineer @ Nagarro** | Prev. Full Stack Intern @ TailorTalk
-- 🔭 Currently working on **Spring Boot microservices**, **Next.js**, and **System Design**
-- 🚀 Built production features on **Phoenix OS platform** and **iLease (Erste Bank FinTech)**
+- 🎓 B.Tech CSE Graduate, The NorthCap University, 2025 &nbsp;|&nbsp; CGPA: 8.53
+- 💼 **Software Engineer @ Nagarro** &nbsp;·&nbsp; Prev. Full Stack Intern @ TailorTalk
+- 🤖 Building **Phoenix OS** — an agentic, spec-driven SDLC framework where **24 specialized agents** read/write against a **126-file memory layer** to turn AI coding assistants into deterministic delivery systems, tool-agnostic across Claude Code, Copilot, Codex & Cursor
+- 🏦 Shipped performance improvements on enterprise banking-sector microservices (Spring Boot, multi-threaded modules)
+- 🔭 Currently deep in **Spring Boot microservices**, **Next.js**, and **multi-agent AI orchestration**
 - 🧠 Alumnus of **Amazon ML Summer School '23** (Top 5%, 60K+ applicants)
-- ⚔️ **Codeforces Specialist** (1600+ rating) | Solved **500+ DSA problems**
-- 👯 Open to collaborate on impactful **Open Source** or **AI-powered** projects
-- 📫 Reach me at **harsh9995soni@gmail.com**
+- ⚔️ **Codeforces Specialist** (1600+ rating) &nbsp;|&nbsp; **500+ DSA problems** solved
+- 👯 Open to collaborate on **agentic AI** or impactful **open source** work
+- 📫 **harsh9995soni@gmail.com**
 
----
+<br/>
 
-### 🚀 Projects
+## 🚀 Featured Projects
 
-- 🔗 [**TaskForge**](https://github.com/harshcode1/TaskForge-Backend) — Jira-style project tracker | Spring Boot 3, Next.js 14, MySQL, JWT, Docker, JUnit | 5-tier RBAC, Kanban board, Swagger docs, sub-100ms transitions for 500+ concurrent users
-- 🧠 [**BetterMind**](https://github.com/harshcode1/BetterMind) — Mental health platform | Next.js, Google OAuth, Google Calendar API | Mood tracking, therapist appointment scheduling, assessments, secure chat, milestone tracking
-- 💰 [**FundMeNow**](https://github.com/harshcode1/FundMeNow) — Full-stack donation platform | Next.js, Razorpay, NextAuth, MongoDB | OAuth social login, real-time funding progress, creator dashboards
-- 🔌 [**QueryConnect**](https://github.com/harshcode1/QueryConnect) — Q&A platform | Spring Boot, Angular, JWT | Role-based access, upvote logic, tag-based filtering
-- 📈 [**Cryptonite**](https://github.com/harshcode1/Cryptonite) — PWA crypto simulator | Next.js 14, React 18, CoinGecko API, Recharts | Multi-layer caching (80% fewer API calls), 65% faster 10K-row renders — [Live Demo](https://cryptonite-ochre.vercel.app/)
+<table>
+<tr>
+<td width="50%" valign="top">
 
----
+### 🔗 [TaskForge](https://github.com/harshcode1/TaskForge)
+Jira-style project tracker — 18 REST endpoints, JWT auth with **service-layer RBAC**, drag-and-drop Kanban, **57 frontend + 12 backend tests**, multi-stage Docker builds.
 
-### 🛠️ Tech Stack
+`Spring Boot 3.5.3` `Spring Security 6` `Next.js 14` `MySQL` `Docker`
 
-<p>
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" width="40" title="Java"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original-wordmark.svg" width="40" title="Spring Boot"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" width="40" title="React"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" width="40" title="Next.js"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" width="40" title="Node.js"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" width="40" title="TypeScript"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mysql/mysql-original-wordmark.svg" width="40" title="MySQL"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/mongodb/mongodb-original-wordmark.svg" width="40" title="MongoDB"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original-wordmark.svg" width="40" title="Docker"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" title="AWS"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original.svg" width="40" title="Azure"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg" width="40" title="Git"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" width="40" title="JavaScript"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" width="40" title="Python"/>
+</td>
+<td width="50%" valign="top">
+
+### 🧠 [BetterMind](https://github.com/harshcode1/BetterMind)
+AI mental-health platform — TOTP **2FA**, AES encryption at rest, rate-limiter factory, 3-role RBAC, clinically-validated PHQ-9/GAD-7 assessments, AI companion.
+
+`Next.js 14` `MongoDB` `OpenAI` `JWT + 2FA`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🔌 [QueryConnect](https://github.com/harshcode1/QueryConnect)
+Community Q&A platform with a clean layered Spring Boot architecture and an **Angular 19** frontend, containerized end-to-end with Docker Compose.
+
+`Spring Boot 3.4.5` `Angular 19` `MySQL` `Docker`
+
+</td>
+<td width="50%" valign="top">
+
+### 🎬 [ai-video-pipeline](https://github.com/harshcode1/ai-video-pipeline)
+Resumable AI video pipeline — TTS + AI image generation + ffmpeg render, with a **pluggable provider abstraction** that survived two live API-provider outages.
+
+`Python` `TTS` `Image-Gen APIs` `ffmpeg`
+
+</td>
+</tr>
+<tr>
+<td colspan="2" valign="top">
+
+### 📈 [Cryptonite](https://github.com/harshcode1/Cryptonite) — [Live Demo ↗](https://cryptonite-seven-phi.vercel.app/)
+PWA crypto trading simulator — 6 cached API routes behind a **4-layer fallback chain**, installable offline PWA, real-time P&L on a virtual wallet.
+
+`Next.js 14` `React 18` `CoinGecko API` `Recharts`
+
+</td>
+</tr>
+</table>
+
+<br/>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,react,nextjs,angular,nodejs,ts,js,mysql,mongodb,docker,aws,azure,git,python,figma&theme=dark" />
 </p>
 
----
+<br/>
 
-### 🏆 Achievements
+## 📊 GitHub Analytics
+
+<p align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=harshcode1&show_icons=true&theme=radical&hide_border=true&count_private=true&include_all_commits=true" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=harshcode1&layout=compact&theme=radical&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshcode1&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=harshcode1&theme=radical&hide_border=true&area=true&custom_title=Contribution%20Activity" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=harshcode1&theme=radical&no-frame=true&row=1&column=7&margin-w=8" />
+</p>
+
+<br/>
+
+## 🐍 Contribution Snake
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/harshcode1/harshcode1/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/harshcode1/harshcode1/output/github-contribution-grid-snake.svg" />
+    <img alt="Contribution snake animation" src="https://raw.githubusercontent.com/harshcode1/harshcode1/output/github-contribution-grid-snake.svg" />
+  </picture>
+</p>
+
+<br/>
+
+## 🏆 Achievements
 - 🥇 **Amazon ML Summer School '23** — Selected from 60,000+ applicants (~5% acceptance rate)
 - ⚔️ **Codeforces Specialist** (1600+ rating, top 15% globally)
-- 👨‍💻 Solved **500+ DSA problems** across LeetCode, Codeforces & HackerRank
+- 👨‍💻 **500+ DSA problems** solved across LeetCode, Codeforces & HackerRank
 - ☁️ **AWS Certified** — Cloud Developing & Cloud Foundations
 
----
+<br/>
 
-### 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=harshcode1&show_icons=true&theme=dracula&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=harshcode1&theme=dracula" alt="GitHub Streak" />
-</p>
+<picture>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:8A2BE2,100:1a0b2e&height=120&section=footer" />
+</picture>
