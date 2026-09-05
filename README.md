@@ -1,9 +1,8 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:8A2BE2,100:1a0b2e&height=220&section=header&text=Harsh%20Soni&fontSize=60&fontColor=faebee&fontAlignY=38&desc=Software%20Engineer%20%40%20Nagarro%20%C2%B7%20AI%20Systems%20%26%20Agentic%20Frameworks&descAlignY=58&descSize=18" />
-  <img align="center" src="https://capsule-render.vercel.app/api?type=waving&color=0:1a0b2e,50:8A2BE2,100:1a0b2e&height=220&section=header&text=Harsh%20Soni&fontSize=60&fontColor=faebee&fontAlignY=38&desc=Software%20Engineer%20%40%20Nagarro%20%C2%B7%20AI%20Systems%20%26%20Agentic%20Frameworks&descAlignY=58&descSize=18" />
-</picture>
-
 <div align="center">
+
+# Harsh Soni
+
+### Software Engineer @ Nagarro · AI Systems & Agentic Frameworks
 
 <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=2800&pause=1100&color=8A2BE2&center=true&vCenter=true&width=750&lines=Building+Phoenix+OS+%40+Nagarro;Agentic+SDLC+%C2%B7+24+Agents+%C2%B7+126-File+Memory;Java+%C2%B7+Spring+Boot+%C2%B7+Next.js+%C2%B7+MCP;Codeforces+Specialist+%C2%B7+500%2B+DSA+Solved" alt="Typing SVG" />
 
