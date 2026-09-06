@@ -42,7 +42,7 @@
 <td width="50%" valign="top">
 
 ### 🔗 [TaskForge](https://github.com/harshcode1/TaskForge) — [Docs ↗](https://github.com/harshcode1/TaskForge/wiki)
-Jira-style project tracker — 18 REST endpoints, JWT auth with **service-layer RBAC**, drag-and-drop Kanban, **57 frontend + 12 backend tests**, multi-stage Docker builds.
+Jira-style project tracker with **live multi-user collaboration** (WebSocket/STOMP), an AI task assistant, and a Cmd+K command palette — 25 REST endpoints, JWT auth with **service-layer RBAC**, drag-and-drop Kanban, **57 frontend + 36 backend tests**, multi-stage Docker builds.
 
 `Spring Boot 3.5.3` `Spring Security 6` `Next.js 14` `MySQL` `Docker`
 
